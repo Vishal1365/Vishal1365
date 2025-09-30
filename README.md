@@ -38,7 +38,7 @@ September 10th, 2025.
 Certificate of Completion
 September 14th, 2025.
 
-👉 [View My Certificates](https://github.com/YourUsername/Certificates)  
+👉 [View My Certificates](README.md)  
 
 ---
 
