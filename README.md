@@ -28,8 +28,8 @@
   - Displayed % of sales by category and pizza size.  
 - **Dashboard 2:** Compared **best-selling** and **worst-selling** pizzas based on revenue, quantity, and total orders.  
 
--**Tools Used:** Power BI, Excel, DAX, Data Cleaning, Data Modeling  
--**Key Insights:** Helped identify top-performing pizza categories and areas for improvement in sales.
+**Tools Used:** Power BI, Excel, DAX, Data Cleaning, Data Modeling  
+**Key Insights:** Helped identify top-performing pizza categories and areas for improvement in sales.
  
 
 ---
