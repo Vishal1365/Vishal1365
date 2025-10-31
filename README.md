@@ -76,7 +76,8 @@
 This dashboard highlights the major causes and patterns of accidents based on location, road condition, and vehicle type.  
 It helps in identifying areas and vehicle types with higher fatality rates, aiding in better traffic planning and safety measures.
 
-- 🍕 **Pizza Sales Analysis (SQL + Excel)** → Developed two interactive dashboards to analyze pizza sales performance.  
+- 🍕 **Pizza Sales Analysis (SQL + Excel + Power BI)** → Developed two interactive dashboards to analyze pizza sales performance.
+- [Pizza Sales Analysis (SQL + Excel + PowerBI)](https://github.com/Vishal1365/Data-Analytics-Projects/tree/main/Pizza%20Sales%20Analysis)
 - **Dashboard 1:** Focused on key KPIs including total sales, total orders, total pizzas sold, and average order value.  
   - Visualized *daily* and *monthly trends* for total orders and sales.  
   - Displayed % of sales by category and pizza size.  
