@@ -42,7 +42,7 @@
 **Key Insights:** Helped identify top-performing states, profitable product categories, and customer purchasing trends.
 
 - 👥 **Road Accident Analysis (Excel)** → Developed an interactive Excel dashboard to analyze road accident data and visualize casualty trends based on different conditions and vehicle types.
-- [Road Accident Analysis (Excel)](https://github.com/Vishal1365/Data-Analytics-Projects/tree/main/Road%20Accident%20Analysis)
+- [Road Accident Analysis (Excel)](https://github.com/Vishal1365/Data_Analytics_Projects/tree/main/Road_Accident_Sales_Analysis)
 
 **KPIs:**
 - 🚑 Total Casualties  
