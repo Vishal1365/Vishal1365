@@ -21,7 +21,7 @@
 
 ## 📂 Projects  
 - 📊 **Sales Analysis Dashboard (Power BI)** → Analyzed revenue trends & top products 
-- 👥 **Road Accident Analysis (Excel)** → HR dataset insights on employee exits  
+- 👥 **Road Accident Analysis (Excel)** → Analyzed road accident data to uncover trend in accident,severity,vehicle involvement and time_based patterns  
 - 🍕 **Pizza Sales Analysis (SQL + Excel)** → Best-selling pizzas & average order value  
 
 ---
