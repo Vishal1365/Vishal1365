@@ -21,8 +21,7 @@
 
 ## 📂 Projects  
 - 📊 **Sales Analysis Dashboard (Power BI)** →An interactive Power BI dashboard analyzing e-commerce sales data to track revenue, profit, and order performance.
--  [Sales Analysis Dashboard (Power BI)](https://github.com/Vishal1365/Data_Analytics_Projects/tree/main/Ecommerce_Sales_Anaysis)
-  - Analyzed revenue trends & top products
+-  [Sales Analysis Dashboard (Power BI)](https://github.com/Vishal1365/Data_Analytics_Projects/tree/main/Pizza_Store_Sales_Analysis)
 
 **KPIs:**
 - Total Sales (Sum of Amount)
