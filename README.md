@@ -23,19 +23,15 @@
 - 📊 **Sales Analysis Dashboard (Power BI)** →An interactive Power BI dashboard analyzing e-commerce sales data to track revenue, profit, and order performance.
 -  [Sales Analysis Dashboard (Power BI)](https://github.com/Vishal1365/Data_Analytics_Projects/tree/main/Pizza_Store_Sales_Analysis)
 
-**KPIs:**
-- Total Sales (Sum of Amount)
-- Total Quantity Sold
-- Total Profit
-- Average Order Value (AOV)
+**KPIs:** Total Sales (Sum of Amount),Total Quantity Sold,Total Profit, Average Order Value (AOV)
 
 **Visuals / Charts:**
-- 💰 Sum of Amount by **State**
-- 📦 Sum of Quantity by **Category**
-- 👥 Sum of Amount by **Customer Name**
-- 💳 Sum of Quantity by **Payment Mode**
-- 📈 Sum of Profit by **Month**
-- 🏷️ Sum of Profit by **Sub-Category**
+-  Sum of Amount by **State**
+-  Sum of Quantity by **Category**
+-  Sum of Amount by **Customer Name**
+-  Sum of Quantity by **Payment Mode**
+-  Sum of Profit by **Month**
+-  Sum of Profit by **Sub-Category**
 
 **Tools Used:** Power BI, Excel, DAX, Data Cleaning, Data Modeling  
 **Key Insights:** Helped identify top-performing states, profitable product categories, and customer purchasing trends.
@@ -48,12 +44,12 @@
 **Vehicle Type Breakdown:** Car Accidents,Truck Accidents,Bus Accidents,Bicycle Accidents,Tractor Accidents,Unspecified 
 
 **Visuals & Charts:**
-- 📈 CY (Current Year) vs PY (Previous Year) Casualties – Monthly Trend  
-- 🛣️ Casualties by Road Type  
-- 🏘️ Casualties by Local Area  
-- 💡 Casualties by Light Conditions  
-- 🌧️ Casualties by Road Surface  
-- 🚙 Casualties by Vehicle Type  
+-  CY (Current Year) vs PY (Previous Year) Casualties – Monthly Trend  
+-  Casualties by Road Type  
+-  Casualties by Local Area  
+-  Casualties by Light Conditions  
+- Casualties by Road Surface  
+- Casualties by Vehicle Type  
 
 **Filters (Slicers):**
 - 📅 **Accident Date** – to analyze trends for specific time periods  
