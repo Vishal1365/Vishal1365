@@ -43,19 +43,9 @@
 - 👥 **Road Accident Analysis (Excel)** → Developed an interactive Excel dashboard to analyze road accident data and visualize casualty trends based on different conditions and vehicle types.
 - [Road Accident Analysis (Excel)](https://github.com/Vishal1365/Data_Analytics_Projects/tree/main/Road_Accident_Sales_Analysis)
 
-**KPIs:**
-- 🚑 Total Casualties  
-- 💀 Fatal Casualties  
-- 🤕 Serious Casualties  
-- 🚗 Slight Casualties  
-- 🚙 Casualties by Vehicle Type  
+**KPIs:** Total Casualties,Fatal Casualties,Serious Casualties,Slight Casualties,Casualties by Vehicle Type  
 
-**Vehicle Type Breakdown:**
-- 🚗 Car Accidents  
-- 🚚 Truck Accidents  
-- 🚌 Bus Accidents  
-- 🚲 Bicycle Accidents  
-- 🚜 Tractor Accidents  
+**Vehicle Type Breakdown:** Car Accidents,Truck Accidents,Bus Accidents,Bicycle Accidents,Tractor Accidents,Unspecified 
 
 **Visuals & Charts:**
 - 📈 CY (Current Year) vs PY (Previous Year) Casualties – Monthly Trend  
