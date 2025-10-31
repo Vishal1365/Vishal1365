@@ -22,7 +22,15 @@
 ## 📂 Projects  
 - 📊 **Sales Analysis Dashboard (Power BI)** → Analyzed revenue trends & top products 
 - 👥 **Road Accident Analysis (Excel)** → Analyzed road accident data to uncover trend in accident,severity,vehicle involvement and time_based patterns  
-- 🍕 **Pizza Sales Analysis (SQL + Excel)** → Best-selling pizzas & average order value  
+- 🍕 **Pizza Sales Analysis (SQL + Excel)** → Developed two interactive dashboards to analyze pizza sales performance.  
+- **Dashboard 1:** Focused on key KPIs including total sales, total orders, total pizzas sold, and average order value.  
+  - Visualized *daily* and *monthly trends* for total orders and sales.  
+  - Displayed % of sales by category and pizza size.  
+- **Dashboard 2:** Compared **best-selling** and **worst-selling** pizzas based on revenue, quantity, and total orders.  
+
+-**Tools Used:** Power BI, Excel, DAX, Data Cleaning, Data Modeling  
+-**Key Insights:** Helped identify top-performing pizza categories and areas for improvement in sales.
+ 
 
 ---
 
