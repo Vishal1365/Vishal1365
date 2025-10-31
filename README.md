@@ -39,7 +39,40 @@
 **Tools Used:** Power BI, Excel, DAX, Data Cleaning, Data Modeling  
 **Key Insights:** Helped identify top-performing states, profitable product categories, and customer purchasing trends.
 
-- 👥 **Road Accident Analysis (Excel)** → Analyzed road accident data to uncover trend in accident,severity,vehicle involvement and time_based patterns  
+- 👥 **Road Accident Analysis (Excel)** → Developed an interactive Excel dashboard to analyze road accident data and visualize casualty trends based on different conditions and vehicle types.
+
+**KPIs:**
+- 🚑 Total Casualties  
+- 💀 Fatal Casualties  
+- 🤕 Serious Casualties  
+- 🚗 Slight Casualties  
+- 🚙 Casualties by Vehicle Type  
+
+**Vehicle Type Breakdown:**
+- 🚗 Car Accidents  
+- 🚚 Truck Accidents  
+- 🚌 Bus Accidents  
+- 🚲 Bicycle Accidents  
+- 🚜 Tractor Accidents  
+
+**Visuals & Charts:**
+- 📈 CY (Current Year) vs PY (Previous Year) Casualties – Monthly Trend  
+- 🛣️ Casualties by Road Type  
+- 🏘️ Casualties by Local Area  
+- 💡 Casualties by Light Conditions  
+- 🌧️ Casualties by Road Surface  
+- 🚙 Casualties by Vehicle Type  
+
+**Filters (Slicers):**
+- 📅 **Accident Date** – to analyze trends for specific time periods  
+- 🏙️ **Area Type** – filter data by Urban or Rural areas  
+
+**Tools Used:** Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, KPI Cards)
+
+**Key Insights:**  
+This dashboard highlights the major causes and patterns of accidents based on location, road condition, and vehicle type.  
+It helps in identifying areas and vehicle types with higher fatality rates, aiding in better traffic planning and safety measures.
+
 - 🍕 **Pizza Sales Analysis (SQL + Excel)** → Developed two interactive dashboards to analyze pizza sales performance.  
 - **Dashboard 1:** Focused on key KPIs including total sales, total orders, total pizzas sold, and average order value.  
   - Visualized *daily* and *monthly trends* for total orders and sales.  
